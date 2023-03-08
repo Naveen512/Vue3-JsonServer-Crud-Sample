@@ -1,0 +1,16 @@
+{
+  "wonders": [
+    {
+      "id": 1,
+      "name": "Christ the Redeemer",
+      "location": "Brazil",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/ChristTheRedeemer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Taj Mahal",
+      "location": "Agra,India ",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/TajMahal.jpg"
+    }
+  ]
+}
